@@ -1,0 +1,25 @@
+#signInDiv {
+  opacity: 0;
+
+  background-color: #3f3f3f;
+  border: none;
+}
+
+.btn-wrap {
+  position: relative;
+  width: 3.75rem;
+  height: 2.5rem;
+  background-color: #3f3f3f;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 1.5rem;
+  height: 1.5rem;
+}
